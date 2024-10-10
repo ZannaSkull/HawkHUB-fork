@@ -7,3 +7,8 @@
 # Dont forget to add
 ``` _Hawk = "ohhahtuhthttouttpwuttuaunbotwo" ``` 
 to top, it was a protection we used to have.
+
+
+
+
+Forked for use it on my scripts
